@@ -24,7 +24,7 @@ author:
   avatar           : "my_photo.jpg"
   name             : "Yiting Dong (董一廷)"
   pronouns         : # example: "she/her"  
-  bio              : "A Ph.D. student at the Institute of Automation, Chinese Academy of Sciences, specializing in brain-inspired intelligence and spiking neural networks."
+  bio              : "A Ph.D. student at the Institute of Automation, Chinese Academy of Sciences, specializing in Brain-inspired Intelligence and Spiking Neural Networks (SNNs)."
   location         : "Beijing, China"
   employer         : "Institute of Automation, Chinese Academy of Sciences"
   uri              : ""
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=YLbBO9IAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-8405-3139"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
