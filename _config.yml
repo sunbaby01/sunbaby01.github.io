@@ -12,9 +12,9 @@ title                    : "Yiting Dong(董一廷)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://sunbaby.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sunbaby/sunbaby.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yiting Dong(董一廷)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Beijing"
-  employer         : "Chinese Academy of Sciences"
+  bio              : "A Ph.D. student at the Institute of Automation, Chinese Academy of Sciences, specializing in brain-inspired intelligence and spiking neural networks."
+  location         : "Beijing, China"
+  employer         : "Institute of Automation, Chinese Academy of Sciences"
   uri              : "sunbaby.github.io"
   email            : "dongyiting2020@ia.ac.cn" 
 
