@@ -25,10 +25,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Beijing"
+  employer         : "Chinese Academy of Sciences"
+  uri              : "sunbaby.github.io"
+  email            : "dongyiting2020@ia.ac.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
