@@ -24,7 +24,7 @@ News
     <a href="https://arxiv.org/abs/2409.17167" target="_blank">
       <img src="https://raw.githubusercontent.com/sunbaby01/sunbaby01.github.io/master/images/eventzoom.png" 
            alt="StressPrompt" 
-           style="width: 150%; max-height: 120px; object-fit: cover;">
+           style="width: 150%; max-height: 180px; object-fit: cover;">
     </a>
   </div>
   <div style="width: 75%;">
