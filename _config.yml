@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headimage.jpg"
+  avatar           : "headimage.png"
   name             : "Yiting Dong (董一廷)"
   pronouns         : # example: "she/her"  
   bio              : "A Ph.D. student at the Institute of Automation, Chinese Academy of Sciences, specializing in Brain-inspired Intelligence and Spiking Neural Networks (SNNs)."
