@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Institute of Automation, Chinese Academy of Sciences. My primary research focuses on Brain-inspired Intelligence, Spiking Neural Networks (SNNs), and Neuromorphic data processing. Recently, I have also been exploring research in the fields of Artificial Intelligence and Large Language Model (LLMs) security. During my doctoral studies, my main interest has been in unsupervised learning in Brain-inspired systems.
+I am a PhD student at the [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/). My primary research focuses on **Brain-inspired Intelligence**, **Spiking Neural Networks (SNNs)**, and **Neuromorphic data processing**. I have also been exploring research in the fields of **Artificial Intelligence Model** and **Large Language Model (LLMs)** security. During my doctoral studies, my main interest has been in **unsupervised learning in Brain-inspired systems**.
+
+I have published papers in journals such as **PNAS**, **Scientific Data**, **iScience**, **Patterns**, **Pattern Recognition**, **Neural Networks** and **IEEE TAI**. My work has also been presented at AI conferences, including **NeurIPS** and **AAAI**.
 
 
+For more information, feel free to contact me via email at <dongyiting2020@ia.ac.cn>.
 
 A data-driven personal website
 ======
